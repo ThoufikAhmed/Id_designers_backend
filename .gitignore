@@ -1,0 +1,10 @@
+/node_modules/
+*.env
+/out
+/errfile.log
+.test.env
+.nyc_output
+function.zip
+.vscode/settings.json
+.DS_Store
+ 
